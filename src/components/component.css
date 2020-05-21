@@ -1,0 +1,45 @@
+button {
+    background-color: green;
+    font-size: 20px;
+    padding: 15px 30px;
+    color: white;
+}
+
+#display {
+    text-align: center;
+}
+
+table.center {
+    border: 2px;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+td{
+    border:1px solid #ccc;
+    text-align: left;
+}
+
+input {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 15px;
+    box-sizing: border-box;
+  }
+
+textarea {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left: 25px;
+}
+
+.email{
+    margin-left: 15px;
+}
+
+.box {
+    width: 21.5%;
+}
